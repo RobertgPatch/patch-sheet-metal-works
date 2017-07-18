@@ -916,7 +916,7 @@
         </profile>
 		
 		
-		<! -- heroku production profile -->
+		<!-- heroku production profile -->
 		<profile>
 		  <id>production</id>
 		  <build>
