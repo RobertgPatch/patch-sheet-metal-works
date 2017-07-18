@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.patchsheetmetalworks.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.6.1",
+    "baseName": "patchsheetmetal",
+    "packageName": "com.patchsheetmetalworks.app",
+    "packageFolder": "com/patchsheetmetalworks/app",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "rememberMeKey": "a16478853904f89cb6294a600838516948c1db53",
+    "clientFramework": "angular1",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "fr",
+      "de",
+      "it",
+      "ja",
+      "ko",
+      "ru",
+      "es"
+    ]
+  }
+}
