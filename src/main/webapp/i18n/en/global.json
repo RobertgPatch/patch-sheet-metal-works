@@ -1,6 +1,6 @@
 {
     "global": {
-        "title": "Patchsheetmetal",
+        "title": "Patch Sheet Metal Works",
         "browsehappy": "You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/?locale=en\">upgrade your browser</a> to improve your experience.",
         "menu": {
             "home": "Home",
@@ -30,6 +30,17 @@
                 "apidocs": "API",
                 "database": "Database",
                 "jhipster-needle-menu-add-admin-element": "JHipster will add additional menu entries here (do not translate!)"
+            },
+            "portfolio": {
+            	"main": "Portfolio",
+            	"settings": "Item1"
+            },
+            "services": {
+                "main": "Services",
+                "chimney-pan": "Chimney Pans",
+                "heating": "Heating",
+                "air-con": "Air Conditioning",
+                "gutters": "Gutters"
             },
             "language": "Language"
         },

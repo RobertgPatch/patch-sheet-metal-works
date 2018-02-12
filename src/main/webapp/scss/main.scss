@@ -72,8 +72,14 @@ Logo styles
         padding: 5px 15px;
         .logo-img {
             height: 45px;
+            width: 100px;
             display: inline-block;
+            background: url("../images/generic-logo.jpg") no-repeat;
+            background-size: cover;
+            border: none;
+            
         }
+        
     }
 }
 
